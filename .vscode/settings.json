@@ -1,0 +1,14 @@
+{
+  "nodeTdd.activateOnStartup": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "[javascript]": {
+      "editor.formatOnSave": true
+  },
+
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  },
+  "jest.autoRun": "off",
+  "prettier.printWidth": 100
+}
