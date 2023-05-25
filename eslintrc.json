@@ -31,6 +31,7 @@
   ],
 
   "rules": {
+      "eol-last": "always",
       "multiline-ternary":"off",
       "react/display-name": 0,
       "array-callback-return": 0,
